@@ -1,0 +1,53 @@
+[33mcommit 4c8e1dbb4d5cd1fe041403cb2957122505504457[m
+Author: purin39 <aaaa_9999@hotmail.co.jp>
+Date:   Sat Aug 1 06:07:58 2015 +0000
+
+    lesson8.2
+
+[33mcommit 651cca55ba67afd6baeb575f3b748e2c0a2e5dcc[m
+Author: purin39 <aaaa_9999@hotmail.co.jp>
+Date:   Sat Aug 1 05:25:31 2015 +0000
+
+    Implementation of the validation
+
+[33mcommit 1aafd71fe15bcbaa4fba52e2c7b6c81204512e2b[m
+Author: purin39 <aaaa_9999@hotmail.co.jp>
+Date:   Sat Aug 1 04:48:26 2015 +0000
+
+    修正１
+
+[33mcommit b5d48e78799c2490a08d6caf4575a420757dd3db[m
+Author: purin39 <aaaa_9999@hotmail.co.jp>
+Date:   Wed Jul 29 08:43:07 2015 +0000
+
+    htmlArrange
+
+[33mcommit ef643e54fa6fe9ab489671c98c34b4265a0b9e58[m
+Author: purin39 <aaaa_9999@hotmail.co.jp>
+Date:   Sun Jul 26 11:00:14 2015 +0000
+
+    using Bootstrap
+
+[33mcommit 68010239c44bce207f618a47a78cca7b0bf68c87[m
+Author: purin39 <aaaa_9999@hotmail.co.jp>
+Date:   Sun Jul 26 09:48:15 2015 +0000
+
+    create message model
+
+[33mcommit ed4ed2370f7a02a0c5ff911a5772d01b0e7121f0[m
+Author: purin39 <aaaa_9999@hotmail.co.jp>
+Date:   Sun Jul 26 05:30:01 2015 +0000
+
+    create message model
+
+[33mcommit 11dfb628ffc5fa44b56477fbc26c813b610fb710[m
+Author: purin39 <aaaa_9999@hotmail.co.jp>
+Date:   Sun Jul 26 04:08:59 2015 +0000
+
+    create messages_controller
+
+[33mcommit 1178417c450b491563345fe938bada3d8490a412[m
+Author: purin39 <aaaa_9999@hotmail.co.jp>
+Date:   Sun Jul 26 03:44:10 2015 +0000
+
+    first commit
