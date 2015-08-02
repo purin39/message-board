@@ -12,15 +12,20 @@
     </div>
   <% end %>
 
-  名前:
-  <%= f.text_field :name %>
+  <label>
+    <span>名前:</span>
+    <%= f.text_field :name %>
+  </label>
 
-  年齢:
-  <%= f.text_field :age %>  
+  <label>
+    <span>年齢:</span>
+    <%= f.text_field :age %>
+  </label>
 
-  内容:
-  <%= f.text_field :body %>
+  <label>
+    <span>内容:</span>
+    <%= f.text_field :body %>
+  </label>
 
-  
-  <%= f.submit class: "btn btn-sm btn-primary" %>
+  <%= f.submit class: "btn btn-xs btn-primary" %>
 <% end %>
